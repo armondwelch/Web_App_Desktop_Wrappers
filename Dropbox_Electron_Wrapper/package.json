@@ -1,6 +1,6 @@
 {
   "name": "dropbox_electron_wrapper",
-  "productName": "dropbox_electron_wrapper",
+  "productName": "Dropbox",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
