@@ -1,9 +1,9 @@
-# Evernote_Electron_Wrapper
-An electron wrapper for the evernote web application.
+# Web_App_Desktop_Wrappers
+Electron wrappers for web apps on Linux desktop.
 
 Installation:
 
-cd Evernote_Electron_Wrapper
+cd App_Electron_Wrapper
 
 npm run make
 
