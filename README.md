@@ -5,6 +5,8 @@ Installation:
 
 cd App_Electron_Wrapper
 
+npm install
+
 npm run make
 
 sudo dpkg -i out/make/deb/x64/*.deb
