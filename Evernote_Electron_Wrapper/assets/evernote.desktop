@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Evernote
+Comment=Evernote note-taking application
+GenericName=Evernote
+Exec=env ELECTRON_DISABLE_SANDBOX=1 /usr/lib/<%= name %>/<%= name %> --no-sandbox %U
+Icon=<%= name %>
+Type=Application
+StartupNotify=true
+Categories=<%= categories %>

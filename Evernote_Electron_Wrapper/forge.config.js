@@ -24,15 +24,17 @@ module.exports = {
         options: {
           icon: './assets/evernote.png',
           categories: ['Office', 'Utility'],
-	  genericName: 'Evernote',
+          genericName: 'Evernote',
           description: 'Evernote note-taking application',
           productDescription: 'Evernote web app wrapper',
           section: 'utils',
           priority: 'optional',
           maintainer: 'Your Name',
-          homepage: 'https://evernote.com'	
+          homepage: 'https://evernote.com',
+          bin: 'evernote-app',
+          desktopTemplate: './assets/evernote.desktop'
         }
-  },
+      },
     },
   ],
   plugins: [
